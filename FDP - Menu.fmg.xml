@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">موافق</text>
+<text id="2">إلغاء</text>
+<text id="3">نعم</text>
+<text id="4">لا</text>
+<text id="5">قبول</text>
+<text id="6">رفض</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">%null%</text>
+<text id="11">%null%</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">إعادة المحاولة</text>
+<text id="16">متابعة</text>
+<text id="17">العودة إلى القائمة الرئيسية</text>
+<text id="40200">أرواح غير كافية</text>
+<text id="40201">مطلوب عناصر إضافية</text>
+<text id="40202">مطلوب عناصر/أرواح إضافية</text>
+<text id="40300">إعادة التعيين إلى الإعدادات الافتراضية.
+هل أنت موافق؟</text>
+<text id="40500">استعادة جميع الإعدادات الافتراضية.
+هل أنت موافق؟</text>
+<text id="102000">ترك &lt;?itemName?&gt;.
+هل أنت موافق؟</text>
+<text id="102001">التخلص من &lt;?itemName?&gt;.
+هل أنت موافق؟</text>
+<text id="102002">ترك جميع العناصر المحددة.
+هل أنت موافق؟</text>
+<text id="102003">التخلص من جميع العناصر المحددة.
+هل أنت موافق؟</text>
+<text id="102004">%null%</text>
+<text id="102005">%null%</text>
+<text id="102006">%null%</text>
+<text id="102007">%null%</text>
+<text id="102008">%null%</text>
+<text id="102009">%null%</text>
+<text id="102010">هذا الإجراء سيتجاوز الحد الأقصى للأرواح.
+الأرواح التي تتجاوز الحد الأقصى ستُفقد.
+هل تريد الاستخدام على أي حال؟</text>
+<text id="103000">غير قادر على استخدام هذا العنصر بفعالية بالصفات الحالية.</text>
+<text id="103001">غير قادر على استخدام هذا العنصر بفعالية بالصفات الحالية،
+إلا إذا تم استخدامه بكلتا اليدين.</text>
+<text id="103110">لا يمكن تجهيز الملحق لأن هناك ملحقًا غير متوافق مجهز حاليًا.</text>
+<text id="103111">%null%</text>
+<text id="103112">%null%</text>
+<text id="103113">%null%</text>
+<text id="103114">%null%</text>
+<text id="103115">%null%</text>
+<text id="103116">%null%</text>
+<text id="103117">%null%</text>
+<text id="103118">%null%</text>
+<text id="103119">%null%</text>
+<text id="103120">لا يمكن إزالة الملحق في هذا الوقت.</text>
+<text id="103121">%null%</text>
+<text id="103122">%null%</text>
+<text id="103123">%null%</text>
+<text id="103124">%null%</text>
+<text id="103125">%null%</text>
+<text id="103126">%null%</text>
+<text id="103127">%null%</text>
+<text id="103128">%null%</text>
+<text id="103129">%null%</text>
+<text id="103130">لا يمكن تغيير المعدات في هذا الوقت.</text>
+<text id="103131">%null%</text>
+<text id="103132">%null%</text>
+<text id="103133">%null%</text>
+<text id="103134">%null%</text>
+<text id="103135">%null%</text>
+<text id="103136">%null%</text>
+<text id="103137">%null%</text>
+<text id="103138">%null%</text>
+<text id="103139">%null%</text>
+<text id="103140">سيؤدي فقدان خانات التناغم إلى
+إزالة أي تعاويذ زائدة.
+هل أنت موافق؟</text>
+<text id="103141">تمت إزالة التعاويذ.</text>
+<text id="103142">%null%</text>
+<text id="103143">%null%</text>
+<text id="103144">%null%</text>
+<text id="103145">%null%</text>
+<text id="103146">%null%</text>
+<text id="103147">%null%</text>
+<text id="103148">%null%</text>
+<text id="103149">%null%</text>
+<text id="103150">الملحق سينكسر بمجرد إزالته.
+هل تريد إزالة الملحق؟</text>
+<text id="103151">المعدة ستنكسر بمجرد إزالتها.
+هل تريد إزالة المعدة؟</text>
+<text id="110000">حفظ اللعبة والعودة إلى القائمة الرئيسية؟</text>
+<text id="211000">لا توجد نيران متاحة للانتقال السريع</text>
+<text id="212000">إنفاق &lt;?demandSoul?&gt; من الأرواح
+ورفع المستوى؟</text>
+<text id="212001">إلغاء رفع المستوى.
+هل أنت موافق؟</text>
+<text id="212002">اختر صفة واحدة على الأقل لرفع مستواها.</text>
+<text id="212003">%null%</text>
+<text id="212004">%null%</text>
+<text id="212005">%null%</text>
+<text id="212006">%null%</text>
+<text id="212007">%null%</text>
+<text id="212008">%null%</text>
+<text id="212009">%null%</text>
+<text id="212010">المستوى في حده الأقصى.
+لا يمكن رفع المستوى أكثر.</text>
+<text id="212250">رفع المستوى؟</text>
+<text id="212251">إلغاء رفع المستوى.
+هل أنت موافق؟</text>
+<text id="212500">رفع المستوى؟</text>
+<text id="212501">إلغاء رفع المستوى.
+هل أنت موافق؟</text>
+<text id="212502">%null%</text>
+<text id="212503">تم الحصول على &lt;?itemNum?&gt; &lt;?gdsparam@490?&gt;.</text>
+<text id="212750">بدء إعادة الولادة؟</text>
+<text id="212751">إلغاء إعادة الولادة.
+هل أنت موافق؟</text>
+<text id="212752">أعد توزيع الصفات حتى تصل إلى المستوى الأصلي.</text>
+<text id="212753">%null%</text>
+<text id="212754">%null%</text>
+<text id="212755">%null%</text>
+<text id="212756">%null%</text>
+<text id="212757">%null%</text>
+<text id="212758">%null%</text>
+<text id="212759">%null%</text>
+<text id="212760">سيتم إزالة السحر حيث تم فقدان خانات التناغم.
+هل تريد المتابعة مع إعادة الولادة؟</text>
+<text id="212761">تمت إزالة السحر الذي لا يمكن تناغمه.</text>
+<text id="221000">تقوية &lt;?itemNameBeforeForge?&gt;
+لصنع &lt;?itemNameAfterForge?&gt;؟</text>
+<text id="222000">تسريب &lt;?itemNameBeforeForge?&gt;
+لصنع &lt;?itemNameAfterForge?&gt;</text>
+<text id="223000">إصلاح &lt;?itemName?&gt;
+مقابل &lt;?demandSoul?&gt; من الأرواح.</text>
+<text id="231000">شراء &lt;?itemName?&gt;
+مقابل &lt;?demandSoul?&gt; من الأرواح؟</text>
+<text id="231001">%null%</text>
+<text id="231002">%null%</text>
+<text id="231003">%null%</text>
+<text id="231004">%null%</text>
+<text id="231005">%null%</text>
+<text id="231006">%null%</text>
+<text id="231007">%null%</text>
+<text id="231008">%null%</text>
+<text id="231009">%null%</text>
+<text id="231010">تم وضع العناصر التي تتجاوز الحد الأقصى في التخزين.</text>
+<text id="231011">%null%</text>
+<text id="231012">%null%</text>
+<text id="231013">%null%</text>
+<text id="231014">%null%</text>
+<text id="231015">%null%</text>
+<text id="231016">%null%</text>
+<text id="231017">%null%</text>
+<text id="231018">%null%</text>
+<text id="231019">%null%</text>
+<text id="231020">لا يمكن الشراء.
+العدد الذي ترغب في شرائه سيتجاوز الحد الأقصى
+الذي يمكن حمله في المخزون والتخزين.</text>
+<text id="231100">نفد المخزون بالكامل.
+لا يمكن الشراء بعد الآن.</text>
+<text id="232000">بيع &lt;?itemName?&gt;
+مقابل &lt;?sellSouls?&gt; من الأرواح؟</text>
+<text id="232001">%null%</text>
+<text id="232002">لا يمكن بيع العناصر المجهزة حاليًا.</text>
+<text id="232003">لا يمكن بيع هذا العنصر.</text>
+<text id="234001">فشل في الحصول على معلومات قائمة الفرسان.</text>
+<text id="234002">%null%</text>
+<text id="234003">جارٍ الحصول على معلومات قائمة الفرسان...</text>
+<text id="234004">%null%</text>
+<text id="234005">%null%</text>
+<text id="234006">%null%</text>
+<text id="234007">%null%</text>
+<text id="234008">%null%</text>
+<text id="234009">%null%</text>
+<text id="234010">جارٍ الحصول على معلومات الفارس...</text>
+<text id="234011">فشل في الحصول على معلومات الفارس.</text>
+<text id="235000">بدء تخصيص الإستوس؟</text>
+<text id="235001">إلغاء التخصيص.
+هل أنت موافق؟</text>
+<text id="236000">تحويل &lt;?itemName?&gt;
+مقابل &lt;?demandSoul?&gt; من الأرواح؟</text>
+<text id="236001">%null%</text>
+<text id="236002">%null%</text>
+<text id="236003">%null%</text>
+<text id="236004">%null%</text>
+<text id="236005">%null%</text>
+<text id="236006">%null%</text>
+<text id="236007">%null%</text>
+<text id="236008">%null%</text>
+<text id="236009">%null%</text>
+<text id="236010">تم وضع العناصر المحولة التي تتجاوز الحد الأقصى في التخزين.</text>
+<text id="236011">لا يمكن التحويل.
+العدد المنتج سيتجاوز
+الحد الأقصى الذي يمكن حمله في المخزون والتخزين.</text>
+<text id="251020">لا يمكن تخزين العناصر المجهزة حاليًا.</text>
+<text id="251021">لا يمكن وضع العنصر المحدد في التخزين.</text>
+<text id="251022">%null%</text>
+<text id="251023">%null%</text>
+<text id="251024">%null%</text>
+<text id="251025">%null%</text>
+<text id="251026">%null%</text>
+<text id="251027">%null%</text>
+<text id="251028">%null%</text>
+<text id="251029">%null%</text>
+<text id="251030">لا يمكن تخزين العنصر.
+التخزين ممتلئ.</text>
+<text id="251031">لا يمكن استرداد العنصر.
+المخزون ممتلئ.</text>
+<text id="261000">خانات تناغم غير كافية.</text>
+<text id="261001">خانات فارغة غير كافية.</text>
+<text id="261002">خانات تناغم غير كافية.</text>
+<text id="261003">لا يمكن تناغم تعاويذ مكررة.</text>
+<text id="261004">صفات غير كافية لاستخدام هذه التعويذة.</text>
+<text id="261005">لا يمكن استخدام هذه التعويذة أثناء التحالف مع الميثاق الحالي.</text>
+<text id="311000">حذف هذه الرسالة.
+هل أنت موافق؟</text>
+<text id="311001">الإشادة بهذه الرسالة؟</text>
+<text id="311002">الاستخفاف بهذه الرسالة؟</text>
+<text id="321000">ستتم كتابة الرسالة بالمحتوى الحالي.</text>
+<text id="321001">سيؤدي هذا إلى حذف الرسالة قيد التقدم.
+هل أنت موافق؟</text>
+<text id="322000">حذف هذه الرسالة من القائمة؟</text>
+<text id="334510">غير قادر على الحصول على &lt;?itemName?&gt;
+بسبب امتلاء المخزون أو التخزين.</text>
+<text id="334511">غير قادر على الحصول على كل &lt;?itemName?&gt;
+بسبب امتلاء المخزون أو التخزين.</text>
+<text id="334512">%null%</text>
+<text id="334513">%null%</text>
+<text id="334514">%null%</text>
+<text id="334515">%null%</text>
+<text id="334516">%null%</text>
+<text id="334517">%null%</text>
+<text id="334518">%null%</text>
+<text id="334519">%null%</text>
+<text id="334520">تعذر الحصول على بعض العناصر لأنها
+ستتجاوز الحد الأقصى للمخزون أو التخزين.</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="402001">إلغاء إنشاء الشخصية والعودة إلى القائمة الرئيسية؟</text>
+<text id="402002">هل توافق على بدء اللعبة بهذه الشخصية؟</text>
+<text id="402003">الاسم مطلوب.
+
+أدخل اسمًا لإنهاء التعديل.</text>
+<text id="402004">فشل في حفظ معلومات الشخصية.</text>
+<text id="402005">%null%</text>
+<text id="402006">%null%</text>
+<text id="402007">%null%</text>
+<text id="402008">%null%</text>
+<text id="402009">%null%</text>
+<text id="402010">إعادة جميع التغييرات على المظهر إلى الوضع الافتراضي؟</text>
+<text id="402011">سيتم تجاهل التغييرات.
+هل هذا مقبول؟</text>
+<text id="402012">%null%</text>
+<text id="402013">%null%</text>
+<text id="402014">%null%</text>
+<text id="402015">%null%</text>
+<text id="402016">%null%</text>
+<text id="402017">%null%</text>
+<text id="402018">%null%</text>
+<text id="402019">%null%</text>
+<text id="402020">احتوى الهجاء المحدد على لغة غير لائقة
+ولا يمكن استخدامه كاسم شخصية.
+
+أدخل اسمًا آخر.</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">سيؤدي تغيير الجنس إلى إعادة تعيين تغييرات معينة.
+
+هل هذا مقبول؟</text>
+<text id="402101">إلغاء التعديلات على المظهر وإعادة الولادة؟</text>
+<text id="402102">إنهاء التعديلات على المظهر والمتابعة مع إعادة الولادة؟</text>
+<text id="402103">%null%</text>
+<text id="402104">%null%</text>
+<text id="402105">%null%</text>
+<text id="402106">%null%</text>
+<text id="402107">%null%</text>
+<text id="402108">%null%</text>
+<text id="402109">%null%</text>
+<text id="402110">تجاهل التعديلات على المظهر والعودة إلى الحالة السابقة؟</text>
+<text id="404010">تجاهل التغييرات الحالية والعودة إلى الصفحة السابقة؟</text>
+<text id="406011">البدء بالملف الشخصي المحدد؟</text>
+<text id="406012">حذف الملف الشخصي المحدد وبدء لعبة جديدة؟</text>
+<text id="406013">هل توافق على حذف الملف الشخصي المحدد؟</text>
+<text id="420000">حفظ الإعدادات الحالية كمفضلة؟</text>
+<text id="420001">الكتابة فوق خانة المفضلة وحفظ الإعدادات الحالية؟</text>
+<text id="420002">تجاهل التغييرات الحالية وتحميل المفضلة؟</text>
+<text id="420003">لا يمكن تحميل المظاهر الجسدية للجنس الآخر.</text>
+<text id="420004">هل توافق على حذف المفضلة المحددة؟</text>
+<text id="420005">%null%</text>
+<text id="420006">%null%</text>
+<text id="420007">%null%</text>
+<text id="420008">%null%</text>
+<text id="420009">%null%</text>
+<text id="420010">لم يتم حفظ أي مفضلات.</text>
+<text id="450000">بدء الرحلة &lt;?nextLoopCount?&gt; في الحالة الحالية؟
+يمكن بدء الرحلة &lt;?nextLoopCount?&gt; من
+نار المزار إذا كنت لا ترغب في البدء الآن.</text>
+<text id="450001">إذا بدأت الرحلة &lt;?nextLoopCount?&gt;،
+فلن تتمكن من العودة إلى الرحلة &lt;?loopCount?&gt;.
+هل أنت متأكد من رغبتك في بدء الرحلة &lt;?nextLoopCount?&gt;؟</text>
+<text id="502000">إعادة هذا الشبح إلى عالمه؟</text>
+<text id="502001">لا يوجد شبح لإرساله إلى المنزل.</text>
+<text id="550000">نظرًا لإنهاء جلسات اللعب الجماعي بشكل غير لائق بشكل متكرر،
+تم قطع الاتصال بين العوالم.
+لا يمكن استعادة الاتصال إلا باستخدام دائرة الطريق الأبيض.</text>
+<text id="550100">لم يتم الكشف عن أي إدخال لفترة محددة.
+تمت إعادتك إلى عالمك.</text>
+<text id="620000">بدء اللعبة بالشخصية المحددة.
+هل أنت موافق؟</text>
+<text id="620001">العودة إلى القائمة الرئيسية؟</text>
+</entries>
+</fmg>

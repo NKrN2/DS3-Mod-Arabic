@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="506000">الانضمام إلى مباراة الموتى الأحياء بالإعدادات الحالية؟</text>
+<text id="506001">يرجى الانتظار حتى ينضم جميع المقاتلين.
+إجمالي اللاعبين: &lt;?matchTotalCount?&gt;
+المتبقي: &lt;?matchRemainingCount?&gt;</text>
+<text id="506002">جميع المقاتلين حاضرون.
+يتم الانتقال إلى الساحة.</text>
+<text id="506003">%null%</text>
+<text id="506004">%null%</text>
+<text id="506005">%null%</text>
+<text id="506006">%null%</text>
+<text id="506007">%null%</text>
+<text id="506008">%null%</text>
+<text id="506009">%null%</text>
+<text id="506010">تم إلغاء البحث عن مباراة</text>
+<text id="506011">تم إلغاء البحث عن مباراة</text>
+<text id="506012">إلغاء البحث عن مباراة؟</text>
+<text id="506013">%null%</text>
+<text id="506014">%null%</text>
+<text id="506015">%null%</text>
+<text id="506016">%null%</text>
+<text id="506017">%null%</text>
+<text id="506018">%null%</text>
+<text id="506019">%null%</text>
+<text id="506020">فشل البحث عن مباراة</text>
+<text id="506021">فشل البحث عن مباراة.
+فشل في إنشاء الجلسة.</text>
+<text id="506022">فشل البحث عن مباراة.
+فشل في الانضمام إلى الجلسة.</text>
+<text id="506023">فشل في تسجيل نتيجة المباراة.
+
+للمحاولة مرة أخرى، اختر نعم.
+
+للمتابعة دون تسجيل نتيجة المباراة، اختر لا.</text>
+</entries>
+</fmg>
